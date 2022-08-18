@@ -3,3 +3,9 @@
 *.yarn
 yarn.installed
 *workspace.*
+[gamemodes]/*
+[gameplay]/*
+[local]/*
+[managers]/*
+[system]/*
+[test]/*
